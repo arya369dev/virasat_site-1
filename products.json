@@ -1,0 +1,110 @@
+[
+  {
+    "sku": "VIR-MAH-001",
+    "name": "Kurukshetra — The Great Oath",
+    "category": "Mahabharata Legends",
+    "price": 2499,
+    "format": "Collector diorama",
+    "scale": "Display edition",
+    "description": "A dramatic collector concept inspired by the epic battlefield and its timeless stories."
+  },
+  {
+    "sku": "VIR-MAH-002",
+    "name": "Arjuna — The Archer's Resolve",
+    "category": "Mahabharata Legends",
+    "price": 1899,
+    "format": "Character collectible",
+    "scale": "Display edition",
+    "description": "A tribute to focus, discipline and the legendary archer."
+  },
+  {
+    "sku": "VIR-MYT-001",
+    "name": "Mahadev — The Eternal Form",
+    "category": "Gods & Mythology",
+    "price": 2999,
+    "format": "Sculpture concept",
+    "scale": "Premium edition",
+    "description": "A reverential design concept inspired by India's rich mythological art traditions."
+  },
+  {
+    "sku": "VIR-MYT-002",
+    "name": "Garuda — Wings of Dharma",
+    "category": "Gods & Mythology",
+    "price": 2199,
+    "format": "Sculpture concept",
+    "scale": "Display edition",
+    "description": "A collectible concept celebrating strength, devotion and freedom."
+  },
+  {
+    "sku": "VIR-KNG-001",
+    "name": "Chhatrapati — The Crown of Swarajya",
+    "category": "Legendary Indian Kings",
+    "price": 3499,
+    "format": "Royal character bust",
+    "scale": "Premium edition",
+    "description": "A respectful tribute to leadership, courage and the idea of Swarajya."
+  },
+  {
+    "sku": "VIR-KNG-002",
+    "name": "The Rajput Sentinel",
+    "category": "Legendary Indian Kings",
+    "price": 2799,
+    "format": "Warrior collectible",
+    "scale": "Display edition",
+    "description": "Inspired by the valour and visual language of India's royal warrior traditions."
+  },
+  {
+    "sku": "VIR-MAR-001",
+    "name": "Mavala — Guardian of the Sahyadri",
+    "category": "Maratha Mavalas & Armies",
+    "price": 1999,
+    "format": "Warrior figurine",
+    "scale": "Display edition",
+    "description": "A collectible concept honouring the courage of the Mavalas."
+  },
+  {
+    "sku": "VIR-MAR-002",
+    "name": "The Hill-Fort Defender",
+    "category": "Maratha Mavalas & Armies",
+    "price": 2299,
+    "format": "Battle diorama",
+    "scale": "Display edition",
+    "description": "A miniature scene inspired by the rugged forts and defenders of the Deccan."
+  },
+  {
+    "sku": "VIR-FRT-001",
+    "name": "Raigad — The Mountain Capital",
+    "category": "Indian Forts & Architecture",
+    "price": 3999,
+    "format": "Architectural diorama",
+    "scale": "Premium edition",
+    "description": "A display concept celebrating the dramatic setting and historic significance of Raigad."
+  },
+  {
+    "sku": "VIR-FRT-002",
+    "name": "The Desert Citadel",
+    "category": "Indian Forts & Architecture",
+    "price": 3299,
+    "format": "Fort miniature",
+    "scale": "Display edition",
+    "description": "A miniature architectural tribute to India's majestic hill and desert forts."
+  },
+  {
+    "sku": "VIR-ARM-001",
+    "name": "The Royal Talwar",
+    "category": "Weapons, Armour & Battle Dioramas",
+    "price": 1599,
+    "format": "Artefact replica concept",
+    "scale": "Display edition",
+    "description": "A decorative collector concept inspired by traditional Indian sword craftsmanship."
+  },
+  {
+    "sku": "VIR-ARM-002",
+    "name": "The Warrior's Armour",
+    "category": "Weapons, Armour & Battle Dioramas",
+    "price": 2899,
+    "format": "Armour display concept",
+    "scale": "Premium edition",
+    "description": "A showcase concept inspired by historic armour, metalwork and battlefield design."
+  }
+]
